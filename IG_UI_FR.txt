@@ -1,0 +1,4 @@
+IGUI_FR = {
+	IGUI_SBARF_ZiWei01 = "Se doigter la chatte",
+	IGUI_SBARF_ZiWei01_Tooltip = "Profite de la vie.",
+}
